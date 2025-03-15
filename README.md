@@ -39,39 +39,23 @@
 
 ## 👋 About Me
 
-I am a **dedicated Machine Learning Engineer** with a strong foundation in predictive modeling. My journey in machine learning began with a keen interest in extracting insights from data to solve real-world problems. I have worked on a variety of projects, ranging from **classification and regression tasks** to **deep learning and computer vision applications**.
+I am a **dedicated Machine Learning Engineer** with a strong foundation in predictive modeling. My journey in machine learning began with a keen interest in extracting insights from data to solve real-world problems. I have worked on a variety of projects, ranging from **classification and regression tasks** to **deep learning and computer vision applications**.I continuously strive to expand my skill set and stay updated with the latest advancements in the field. My goal is to contribute to **innovative projects** that make a **positive impact** and enhance my expertise in **machine learning and artificial intelligence**.
 
 ### 🔥 Skills & Expertise
 
-- **Programming:** Python  
+- **Mathematics:** Linear Algebra, Calculus, Probability, Statistics  
+- **Programming:** Python, Java, SQL, PL/SQL  
+- **Databases:** SQL, MongoDB, PL/SQL  
 - **Data Processing:** Pandas, NumPy, Data Cleaning  
 - **Data Visualization:** Matplotlib, Seaborn  
 - **Machine Learning:** Regression, Classification  
 - **Deep Learning:** ANNs, CNNs, Transfer Learning  
 - **Frameworks:** TensorFlow, Keras, Scikit-learn  
-
-I continuously strive to expand my skill set and stay updated with the latest advancements in the field. My goal is to contribute to **innovative projects** that make a **positive impact** and enhance my expertise in **machine learning and artificial intelligence**.
+- **Cloud Platforms:** Azure  
+- **Tools:** MySQL, GitHub, SQL Server, Jupyter Notebook  
+ 
 
 🚀 **Let's connect and build something amazing together!**  
-
-
-
-
-
-
-
-
-<h2 align="center">📜 Summary 📜</h2>
-<div align="center" style="max-width: 600px; margin-bottom: 30px;">
-  <p style="text-align: justify;">
-    I am a dedicated Machine Learning Engineer with a strong foundation in predictive modeling. My journey in machine learning began with a keen interest in extracting insights from data to solve real-world problems. I have worked on a variety of projects ranging from classification and regression tasks to deep learning and computer vision applications. With proficiency in <p>1)Programming:Python</p>
-    <p>2)Data Processing: Pandas,NumPy,Data Cleaning</p>
-    <p>3)Data visualization: Matplotlib, Seaborn</p>
-    <p>4)Machine Learning: Regression, Classification</p>
-    <p>5)Deep Learning: ANNs,CNNs,Transfer Learning</p>
-    <p>6)Frameworks: TensorFlow,Keras,Scikit-learn</p>.I continuously strive to expand my skill set and stay updated with the latest advancements in the field. My goal is to contribute to innovative projects that make a positive impact and enhance my expertise in machine learning and artificial intelligence.
-  </p>
-</div>
 
 <hr/>
 
