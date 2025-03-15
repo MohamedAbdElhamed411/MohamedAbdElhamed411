@@ -66,102 +66,81 @@
 
 <br/>
 <hr/>
- 
 
-<h2 align="center">💡 My Projects 💡</h2>
-
-### 🏥 AI-Based Healthcare System
-🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Based%20Healthcare%20System)  
-📄 Description: AI-powered diagnostic system for medical analysis.  
-🛠️ Tech Stack: Python, TensorFlow, Streamlit  
-
----
-
-### 🧠 Brain Tumor Analysis Model
-🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Brain%20Tumor%20Analysis%20Model)  
-📄 Description: CNN model for detecting brain tumors using MRI scans.  
-🛠️ Tech Stack: Python, TensorFlow, OpenCV  
-
----
-
-### 📊 Blood Test Analysis App
-🔗 [GitHub Repository](https://github.com/your-username/blood-test-app)  
-📄 Description: Predicts blood disorders like anemia & leukemia.  
-🛠️ Tech Stack: Python, Streamlit, Machine Learning  
-
----
+ <h2 align="center">💡 My Portfolio Website 💡</h2>
 
 ### 🌍 My Portfolio Website
-🔗 [Live Demo](https://your-username.github.io/) | [GitHub Repository](https://github.com/MohamedAbdElhamed411)  
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411)  
 📄 Description: Personal portfolio showcasing my work & skills.  
 🛠️ Tech Stack: HTML, CSS, github  
 
+<h2 align="center">💡 My Projects 💡</h2>
+ 
+### 🏥 AI-Based Healthcare System
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Based%20Healthcare%20System)  
+📄 **Description:** AI-powered diagnostic system for medical analysis.  
+🛠️ **Tech Stack:** Python, Pandas, Matplotlib TensorFlow, OpenCV , Streamlit ,CNN , Transfer Learning
 
-<!-- Container for all sections -->
-<div style="display: flex; flex-direction: column; align-items: center;">
+---
 
- <!-- Machine Learning Projects -->
-<div style="text-align: center; margin-bottom: 40px;">
-  <h3>Machine Learning Projects</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj01_Insurance_Claim_Prediction" target="_blank">Insurance Claim Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj02_Big_Mart_Sales_Prediction" target="_blank">Big Mart Sales Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj04_Advertisement" target="_blank">Advertisement Click Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj06_SONAR_Rock_Vs_Mine_Prediction" target="_blank">SONAR Rock Vs Mine Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj07_Airbnb_Prediction" target="_blank">Airbnb Cleaned Europe Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj08_Abalone_Dataset" target="_blank">Regression with an Abalone Dataset</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj09_Mushroom_Classification" target="_blank">Mushroom Classification</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj10_Customer_Clustering" target="_blank">Customer Clustering</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj11_Credit_Card_Clustering" target="_blank">Credit Card Clustering</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj12_Human_Stress_Detection" target="_blank">Human Stress Detection</a></li>
-  </ul>
-</div>
+### 🧠 AI Brain Tumor Analysis Model
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Brain%20Tumor%20Analysis%20Model)  
+📄 **Description:** CNN model for detecting brain tumors using MRI scans.  
+🛠️ **Tech Stack:**Python, Pandas, Matplotlib TensorFlow, OpenCV , Streamlit ,CNN , Transfer Learning   
+
+---
+
+### 📊 AI Blood Test Analysis App
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI%20Blood%20Test%20Analysis%20App)  
+📄 **Description:** Predicts blood disorders like anemia & leukemia.  
+🛠️ **Tech Stack:** Python, Streamlit ,Machine Learning , Pandas, Matplotlib , Scikit-Learn   
+
+---
+
+### 🌍 AI Diabetes Prediction Analysis
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI%20Diabetes%20prediction%20Analysis%20App)  
+📄 **Description:** ML model for predicting diabetes risk based on medical data.  
+🛠️ **Tech Stack:** Python, Streamlit ,Machine Learning , Pandas, Matplotlib , Scikit-Learn  
+
+---
+
+### 🌍 Co2 Emissions Predictions
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/Co2%20Emissions%20Predictions)  
+📄 **Description:** Predicting CO₂ emissions using machine learning models.  
+🛠️ **Tech Stack:** Machine Learning ,Python, Pandas, Matplotlib , Scikit-Learn  
+
+---
+
+### 🔍 Fraud Detection ML Model
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/Fraud%20Detection%20ML%20Model)  
+📄 **Description:** Machine learning model for detecting fraudulent transactions.  
+🛠️ **Tech Stack:** Python , Pandas , Matplotlib , Scikit-Learn , NLP ,Machine Learning
+
+---
+
+### 🚖 Taxi Fare Prediction
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/Taxi-fare-prediction)  
+📄 **Description:** Predicting taxi fares using regression models.  
+🛠️ **Tech Stack:** Machine Learning , Python, Pandas, Matplotlib ,SciKit-Learn  
+
+---
+
+### 🚢 Titanic Prediction ML Model
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/Titanic%20Prediction%20ML%20Model)  
+📄 **Description:** Predicting Titanic passenger survival using ML models.  
+🛠️ **Tech Stack:** Machine Learning ,Python, Pandas, Matplotlib , SciKit-Learn  
+
+---
+
+### 🌦️ Weather Prediction ML Model
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/Weather%20Prediction%20%20ML%20Model)  
+📄 **Description:** Predicting weather conditions using historical climate data.  
+🛠️ **Tech Stack:**  Machine Learning ,Python, Pandas, Matplotlib , SciKit-Learn  
+
+---
 
 
-<div style="text-align: center; margin-bottom: 40px;">
-  <h3>Deep Learning Projects</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj13_Appliances_Energy_Prediction" target="_blank">Appliances Energy Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj03_Heart_Failure_Detection" target="_blank">Heart Failure Detection</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj05_Bank_Note_Authentication_UCI" target="_blank">Bank Note Authentication (UCI)</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj14_Students_Performance_Prediction" target="_blank">Students Performance Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj15_Predict-online-gaming-behavior" target="_blank">Predict Online Gaming Behavior</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj16_Zomato_Delivery_Prediction" target="_blank">Zomato Delivery Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj17_Credit-score-classification" target="_blank">Credit Score Classification</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj18_Flight_Fares_Prediction" target="_blank">Flight Fares Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj19_Stellar_Classification" target="_blank">Stellar Classification</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj20_Caloriees_Burnt_Prediction" target="_blank">Calories Burnt Prediction</a></li>
-  </ul>
-</div>
 
-<div style="text-align: center; margin-bottom: 40px;">
-  <h3>Computer Vision Projects</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj27_CV_Aerial_Semantic_Segmentation_by_Drone" target="_blank">Aerial Semantic Segmentation by Drone</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj24_CV_Facial_Expressions_Prediction" target="_blank">Facial Expressions Prediction</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj23_CV_Chest_X-Ray_Images_Pneumonia" target="_blank">Chest X-Ray Images (Pneumonia)</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj22_CV_Intel_Image_Classification" target="_blank">Intel Image Classification</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj28_CV_Ships_Object_Detection_using_YOLOv8" target="_blank">Ships Object Detection using YOLOv8</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj21_CV_Cats_vs_Dogs_Image_Classification" target="_blank">Cats vs Dogs Image Classification</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj25_CV_CAMvid_semantic_segmentation" target="_blank">CAMvid Semantic Segmentation</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj26_CV_Food_Image_Classification" target="_blank">Food Image Classification</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj29_CV_Bone_Fracture_Detection_using_YOLOv8" target="_blank">Bone Fracture Detection using YOLOv8</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj30_Daily_Climate_time_series" target="_blank">Daily Climate Time Series Using Conv1D</a></li>
-  </ul>
-</div>
-
-<!-- Natural Language Processing Projects -->
-<div style="text-align: center;">
-  <h3>Natural Language Processing Projects</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj31_NLP_IMDB_Movie_Reviews" target="_blank">IMDB Movie Reviews</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj32_NLP_CMU_Books_Recommendation_System" target="_blank">CMU Books Recommendation System</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj33_NLP_Movies_RS_using_Collaborative_Filtering" target="_blank">Movies Recommendation System using Collaborative Filtering</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj34_NLP_Shakespeare_Text_Generation" target="_blank">Shakespeare Text Generation</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj35_NLP_English_French_Neural_Machine_Translation" target="_blank">English-French Neural Machine Translation</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj36_NLP_English_French_NMT_with_Attention" target="_blank">English-French NMT with Attention</a></li>
-    <li><a href="https://github.com/MohammedMohsen0404/Effort-Is-All-You-Need/tree/main/LightGCN_Movie_Recommendation_Website" target="_blank">LightGCN Movie Recommendation Website</a></li>
-  </ul>
 
 <hr/>
 
