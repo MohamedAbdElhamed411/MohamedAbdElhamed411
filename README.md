@@ -95,7 +95,7 @@ I am a **dedicated Machine Learning Engineer** with a strong foundation in predi
 ### 🧠 AI Brain Tumor Analysis Model
 🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Brain%20Tumor%20Analysis%20Model)  
 📄 **Description:** CNN model for detecting brain tumors using MRI scans.  
-🛠️ **Tech Stack:**Python, Pandas, Matplotlib TensorFlow, OpenCV , Streamlit ,CNN , Transfer Learning   
+🛠️ **Tech Stack:** Python, Pandas, Matplotlib TensorFlow, OpenCV , Streamlit ,CNN , Transfer Learning   
 
 ---
 
