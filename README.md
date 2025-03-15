@@ -156,5 +156,3 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElhamed411&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10" alt="top langs" />
 </div>
 <hr/>
-
-[![MasterHead](https://drive.google.com/uc?export=view&id=1KESppGG2yC30oyqrv80iHqvVBsFiGYQ4)](https://rishavchanda.io)
