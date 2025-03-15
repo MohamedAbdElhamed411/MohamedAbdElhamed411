@@ -70,6 +70,33 @@
 
 <h2 align="center">💡 My Projects 💡</h2>
 
+### 🏥 AI-Based Healthcare System
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Based%20Healthcare%20System)  
+📄 Description: AI-powered diagnostic system for medical analysis.  
+🛠️ Tech Stack: Python, TensorFlow, Streamlit  
+
+---
+
+### 🧠 Brain Tumor Analysis Model
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI-Brain%20Tumor%20Analysis%20Model)  
+📄 Description: CNN model for detecting brain tumors using MRI scans.  
+🛠️ Tech Stack: Python, TensorFlow, OpenCV  
+
+---
+
+### 📊 Blood Test Analysis App
+🔗 [GitHub Repository](https://github.com/your-username/blood-test-app)  
+📄 Description: Predicts blood disorders like anemia & leukemia.  
+🛠️ Tech Stack: Python, Streamlit, Machine Learning  
+
+---
+
+### 🌍 My Portfolio Website
+🔗 [Live Demo](https://your-username.github.io/) | [GitHub Repository](https://github.com/MohamedAbdElhamed411)  
+📄 Description: Personal portfolio showcasing my work & skills.  
+🛠️ Tech Stack: HTML, CSS, github  
+
+
 <!-- Container for all sections -->
 <div style="display: flex; flex-direction: column; align-items: center;">
 
