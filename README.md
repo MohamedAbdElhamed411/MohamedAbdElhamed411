@@ -44,18 +44,14 @@ I am a **dedicated Machine Learning Engineer** with a strong foundation in predi
 ### 🔥 Skills & Expertise
 
 - **Mathematics:** Linear Algebra, Calculus, Probability, Statistics  
-- **Programming:** Python, Java, SQL, PL/SQL  
-- **Databases:** SQL, MongoDB, PL/SQL  
+- **Programming:** Python 
 - **Data Processing:** Pandas, NumPy, Data Cleaning  
 - **Data Visualization:** Matplotlib, Seaborn  
 - **Machine Learning:** Regression, Classification  
 - **Deep Learning:** ANNs, CNNs, Transfer Learning  
 - **Frameworks:** TensorFlow, Keras, Scikit-learn  
-- **Cloud Platforms:** Azure  
-- **Tools:** MySQL, GitHub, SQL Server, Jupyter Notebook  
  
-
-🚀 **Let's connect and build something amazing together!**  
+🚀🚀 **Let's connect and build something amazing together!**  
 
 <hr/>
 
