@@ -134,15 +134,7 @@
     <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj36_NLP_English_French_NMT_with_Attention" target="_blank">English-French NMT with Attention</a></li>
     <li><a href="https://github.com/MohammedMohsen0404/Effort-Is-All-You-Need/tree/main/LightGCN_Movie_Recommendation_Website" target="_blank">LightGCN Movie Recommendation Website</a></li>
   </ul>
-</div>
 
-<br/>
-<hr/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohamedAbdElhamed411/MohamedAbdElhamed411/output/github-contribution-grid-snake.svg" />
-</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
