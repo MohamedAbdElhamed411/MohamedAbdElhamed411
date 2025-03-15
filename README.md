@@ -54,7 +54,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scipy,scikitlearn" alt="Skills Part 1" style="max-width: 150px;" />
     </a>
     <a href="https://go-skill-icons.vercel.app/">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,python,huggingface,kaggle,git,github" alt="Skills Part 2" style="max-width: 150px;" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,python,huggingface,kaggle,github" alt="Skills Part 2" style="max-width: 150px;" />
     </a>
   </div>
 </div>
