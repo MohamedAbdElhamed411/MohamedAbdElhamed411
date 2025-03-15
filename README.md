@@ -40,7 +40,12 @@
 <h2 align="center">📜 Summary 📜</h2>
 <div align="center" style="max-width: 600px; margin-bottom: 30px;">
   <p style="text-align: justify;">
-    I am a dedicated Machine Learning Engineer with a strong foundation in predictive modeling. My journey in machine learning began with a keen interest in extracting insights from data to solve real-world problems. I have worked on a variety of projects ranging from classification and regression tasks to deep learning and computer vision applications. With proficiency in Python , Data Processing(Pandas,NumPy,Data Cleaning) , Data visualization(Matplotlib, Seaborn) , Machine Learning(Regression, Classification)  , Deep Learning(ANNs,CNNs,Transfer Learning) and Frameworks(TensorFlow,Keras,Scikit-learn).I continuously strive to expand my skill set and stay updated with the latest advancements in the field. My goal is to contribute to innovative projects that make a positive impact and enhance my expertise in machine learning and artificial intelligence.
+    I am a dedicated Machine Learning Engineer with a strong foundation in predictive modeling. My journey in machine learning began with a keen interest in extracting insights from data to solve real-world problems. I have worked on a variety of projects ranging from classification and regression tasks to deep learning and computer vision applications. With proficiency in <p>1)Programming:Python</p>
+    <p>2)Data Processing: Pandas,NumPy,Data Cleaning</p>
+    <p>Data visualization: Matplotlib, Seaborn</p>
+    <p>Machine Learning: Regression, Classification</p>
+    <p>Deep Learning: ANNs,CNNs,Transfer Learning</p>
+    <p>Frameworks: TensorFlow,Keras,Scikit-learn</p>.I continuously strive to expand my skill set and stay updated with the latest advancements in the field. My goal is to contribute to innovative projects that make a positive impact and enhance my expertise in machine learning and artificial intelligence.
   </p>
 </div>
 
