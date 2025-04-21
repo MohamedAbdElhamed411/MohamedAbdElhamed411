@@ -106,6 +106,13 @@ I am a **dedicated Machine Learning Engineer** with a strong foundation in predi
 
 ---
 
+### ❤️ AI Heart Disease App
+🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/Heart%20Disease)  
+📄 **Description:** Predicts Heart Disease.  
+🛠️ **Tech Stack:** Python, Streamlit ,Machine Learning , Pandas, Matplotlib , Scikit-Learn   
+
+---
+
 ### 🌍 AI Diabetes Prediction Analysis
 🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/project-list/tree/main/AI%20Diabetes%20prediction%20Analysis%20App)  
 📄 **Description:** ML model for predicting diabetes risk based on medical data.  
