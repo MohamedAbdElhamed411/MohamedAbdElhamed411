@@ -12,7 +12,7 @@
     <div style="text-align: left; margin-right: 20px;">
       <p>👨‍💻 All of my projects  <a href="https://github.com/MohamedAbdElhamed411/project-list" target="_blank" style="text-decoration: none; color: #007bff;">GitHub Projects List</a></p>
       <p>📫 How to reach me: <a href="mailto:mohamedabdelhameidmohamed@gmail.com" style="text-decoration: none; color: #007bff;">mohamedabdelhameidmohamed@gmail.com</a></p>
-      <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1GfJXCCzPhD5-enMPnsOXrYJK0QyQ4XW3/view?usp=drive_link" target="_blank" style="text-decoration: none; color: #007bff;">My Resume</a></p>
+      <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1jjgWjGCdXnwrQYqytQ0vdZCOoyN54NoG/view?usp=sharing">My Resume</a></p>
     </div>
     <!-- Removed Coding Image -->
   </div>
