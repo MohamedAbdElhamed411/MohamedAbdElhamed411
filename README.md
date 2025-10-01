@@ -72,7 +72,7 @@ I am a **dedicated Machine Learning Engineer** with a strong foundation in predi
 <hr/>
 
 
-<h2 align="center">📄 My Portfolio Website 📄</h2>
+<h2 align="center">📄 My Portfolio 📄</h2>
 
 ### 🌍 My Portfolio Website
 🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411)  
