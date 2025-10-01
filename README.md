@@ -85,9 +85,9 @@ I am a **dedicated Machine Learning Engineer** with a strong foundation in predi
 
 <h2 align="center">🎯 My Internships 🎯</h2>  
 
-### Machine Learning Internship Program
+### 👉 Machine Learning Internship Program
 🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/Elevo_Internship_Tasks.git)  
-📄 **Description:** 👉 Completed a 1-month Machine Learning Internship at Elevvo, gaining practical experience in Machine Learning, probability, statistics, and Python programming..  
+📄 **Description:** Completed a 1-month Machine Learning Internship at Elevvo, gaining practical experience in Machine Learning, probability, statistics, and Python programming..  
 🛠️ **Tech Stack:** Python, Pandas, Matplotlib, Scikit-Learn 
 
 ---
