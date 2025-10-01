@@ -83,9 +83,7 @@ I am a **dedicated Machine Learning Engineer** with a strong foundation in predi
 ---
 
 
-<h2 align="center">🎯 My Internships 🎯</h2> Machine Learning Internship Program, Elevvo Pathways
- •
- Completed a 1-month Machine Learning Internship, gaining practical experience 
+<h2 align="center">🎯 My Internships 🎯</h2>  
 
 ### Machine Learning Internship Program
 🔗 [GitHub Repository](https://github.com/MohamedAbdElhamed411/Elevo_Internship_Tasks.git)  
